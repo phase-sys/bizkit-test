@@ -1,6 +1,6 @@
 # BizKit Interview Task
 
-**I have removed ```{"id": "1", "name": "John Doe", "age": 29, "occupation": "Developer"},``` in the read me file in both of the following test cases as it does not appear to be following the condition. It should show show in the result**
+**I have removed ```{"id": "1", "name": "John Doe", "age": 29, "occupation": "Developer"},``` in the read me file in both of the following test cases as it does not appear to be following the condition. It should show in the result as reflected in the following results:**
 
 - **Request:** http://127.0.0.1:5000/search?id=5&name=Joe&age=30&occupation=Arc
 
